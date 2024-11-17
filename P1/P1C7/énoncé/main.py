@@ -1,7 +1,7 @@
 #Créez un dictionnaire appelé  fruits  avec les clés  pomme  ,  banane  et  orange  , et les valeurs  rouge  ,  jaune  et  orange  .
 fruits = { "pomme": "rouge",
 "banane": "jaune",
-"orange": "orange"     
+"orange": "orange",    
 }
 #Ajoutez la clé  kiwi  avec la valeur  vert  au dictionnaire  fruits  .
 fruits["kiwi"] = "vert"
