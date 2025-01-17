@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
 # Créez une variable  symbole  pour stocker le symbole d'opération (+, -, * ou /).
 
-# Créez une dernière variable  resultat  initialisée à 0, qui contiendra ensuite le résultat du calcul.
+# Créez une dernière variable  résultat  initialisée à 0, qui contiendra ensuite le résultat du calcul.
 
 # Vérifiez que les deux variables  nombre_a_gauche  et  nombre_a_droite  sont bien des nombres entiers. Si l'une ou les deux ne sont pas des entiers, affichez un message d'erreur correspondant et quittez le programme. (Aide : Utiliser la fonction  isinstance()  )
 
@@ -48,4 +48,4 @@ if __name__ == "__main__":
 
 # Attention, il est impossible de diviser un nombre par 0, il faut donc prévoir une structure conditionnelle supplémentaire pour vérifier ce cas dans la structure  match. Utilisez les conditions if-else pour réaliser cette opération ; s’il y a une division par 0, affichez  Erreur: impossible de diviser par zéro. , sinon stockez le calcul dans la variable  resultat.
 
-# Affichez le résultat contenu dans la variable  resultat.    
+# Affichez le résultat contenu dans la variable  résultat.    

@@ -30,8 +30,8 @@ def main():
             case _:
                 print("Erreur: le symbole d'opération doit être '+', '-', '*' ou '/'.")
 
-        # Affiche le résultat
-        print(f"Le résultat de l'opération est: {resultat}")
+    # Affiche le résultat
+    print(f"Le résultat de l'opération est: {resultat}")
 
 if __name__ == "__main__":
     main()
